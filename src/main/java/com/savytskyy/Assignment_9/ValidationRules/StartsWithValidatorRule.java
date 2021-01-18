@@ -1,4 +1,4 @@
-package com.savytskyy.Assignment_9.ValidationRules;
+package main.java.com.savytskyy.Assignment_9.ValidationRules;
 
 public class StartsWithValidatorRule <T> implements ValidatorRule <T>{
     String start;

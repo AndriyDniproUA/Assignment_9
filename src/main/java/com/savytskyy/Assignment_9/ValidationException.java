@@ -1,4 +1,4 @@
-package com.savytskyy.Assignment_9;
+package main.java.com.savytskyy.Assignment_9;
 
 public class ValidationException extends Exception {
     public ValidationException(String message) {

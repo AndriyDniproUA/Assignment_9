@@ -1,4 +1,4 @@
-package com.savytskyy.Assignment_9.ValidationRules;
+package main.java.com.savytskyy.Assignment_9.ValidationRules;
 
 public class MinNumberValidatorRule<T> implements ValidatorRule<T> {
     Number minValue;

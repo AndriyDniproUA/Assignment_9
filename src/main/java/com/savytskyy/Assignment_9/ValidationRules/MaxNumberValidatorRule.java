@@ -1,6 +1,6 @@
-package com.savytskyy.Assignment_9.ValidationRules;
+package main.java.com.savytskyy.Assignment_9.ValidationRules;
 
-import com.savytskyy.Assignment_9.ValidationRules.ValidatorRule;
+import main.java.com.savytskyy.Assignment_9.ValidationRules.ValidatorRule;
 
 public class MaxNumberValidatorRule <T> implements ValidatorRule<T> {
     Number maxValue;

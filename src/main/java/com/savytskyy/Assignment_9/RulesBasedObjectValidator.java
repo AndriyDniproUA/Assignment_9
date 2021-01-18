@@ -1,6 +1,6 @@
-package com.savytskyy.Assignment_9;
+package main.java.com.savytskyy.Assignment_9;
 
-import com.savytskyy.Assignment_9.ValidationRules.ValidatorRule;
+import main.java.com.savytskyy.Assignment_9.ValidationRules.ValidatorRule;
 
 import java.util.ArrayList;
 import java.util.List;

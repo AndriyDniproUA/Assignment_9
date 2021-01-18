@@ -1,8 +1,10 @@
-package com.savytskyy.Assignment_9;
+package main.java.com.savytskyy.Assignment_9;
 
-import com.savytskyy.Assignment_9.ValidationRules.*;
+import main.java.com.savytskyy.Assignment_9.ValidationRules.*;
 
 import java.util.ArrayList;
+
+
 import java.util.List;
 import java.util.regex.Pattern;
 

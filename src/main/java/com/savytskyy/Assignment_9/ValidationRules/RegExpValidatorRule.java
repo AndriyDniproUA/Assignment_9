@@ -1,4 +1,4 @@
-package com.savytskyy.Assignment_9.ValidationRules;
+package main.java.com.savytskyy.Assignment_9.ValidationRules;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
